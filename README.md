@@ -1,4 +1,4 @@
 # PersonalWebsite
-My site uses Bootstrap, and is mobile friendly. Visual design is kinda bad.
+My site uses Bootstrap, and is mobile friendly. I'm well aware the visual design sucks ass.
 
 Visit: http://amelendezr.com/
